@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "tutorial": [
+        {
+          "text": "Unlike wallets in real life, crypto wallets can't hold actual money. Instead, crypto wallets provide keys that prove ownership to cryptocurrency or NFTs that exist on a blockchain.",
+          "duration": 15000
+        },
+        {
+          "text": "Crypto wallets store two types of keys, private and public keys. These keys come in pairs; every private key can generate a public key.",
+          "duration": 12000
+        },
+        {
+          "text": "Private keys are secret, randomly generated numbers that act similar to a password. They grant access to the cryptocurrency or NFTs that belongs to that key.",
+          "duration": 14000
+        },
+        {
+          "text": "If your private keys gets lost or stolen, anything those private keys granted access to are no longer yours. NEVER share your private keys.",
+          "duration": 12000
+        },
+        {
+          "text": "To help keep your private keys safe, wallets generate a seed phrase. A seed phrase is a backup recovery phrase that gives access to a wallet. NEVER share your seed phrase.",
+          "duration": 14000
+        },
+        {
+          "text": "Public keys are used by wallets to generate public addresses. Sharing your public address allows you to receive cryptocurrency.",
+          "duration": 12000
+        }
+      ],
+      "questions": [
+        {
+          "question": "What are private keys used for?",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "They are needed to access bitcoin customer support.",
+            "They grant access to the cryptocurrency or NFTs that belong to that key.",
+            "They are used to access secret websites.",
+            "They can be shared freely to receive cryptocurrency or NFTs."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is a seed phrase?",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "It is needed to gain access to any website that asks for it.",
+            "You give it to customer support when help is needed.",
+            "A backup recovery phrase that gives full access to a wallet.",
+            "A software application designed to store and manage online credentials."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How do you receive cryptocurrency?",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "You share your public address.",
+            "You share your private key.",
+            "You share your seed phrase.",
+            "You share your transaction address."
+          ],
+          "answer": 0
+        }
+      ],
+      "success": [
+        {
+          "explanation": null
+        },
+        {
+          "explanation": null
+        },
+        {
+          "explanation": null,
+          "successGif": "borat.gif"
+        }
+      ]
+    },
+    {
+      "tutorial": [
+        {
+          "text": "There are two main groups of crypto wallets, \"hot\" wallets and \"cold\" wallets. They have their own advantages and disadvantages.",
+          "duration": 10000
+        },
+        {
+          "text": "Desktop and mobile wallets are examples of \"hot\" wallets because they are connected to the internet. However, this makes them vulnerable to online attacks.",
+          "duration": 12000
+        },
+        {
+          "text": "If your computer or mobile device is hacked, your crypto may be compromised as a result. It is not suggested to hold large amounts of crypto long term on online wallets.",
+          "duration": 15000
+        },
+        {
+          "text": "Web wallets are online services that will manage your keys on your behalf. This is known as a custodial wallet, which is convenient, but also adds more risk of your crypto vanishing.",
+          "duration": 15000
+        },
+        {
+          "text": "A hardware wallet is an example of a \"cold\" wallet. They are safer because they store privates keys offline, completely inaccessible to malicious online threats.",
+          "duration": 20000
+        },
+        {
+          "text": "An ideal strategy would be to use hardware wallets for long term storage, while using a non-custodial online wallet for short term transations.",
+          "duration": 14000
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which of the following is an example of a cold wallet?",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "Web wallet.",
+            "Hardware wallet.",
+            "Desktop wallet.",
+            "Mobile wallet."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What would be an ideal strategy for holding cryptocurrency?",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "Memorize the private keys or seed phrase in your head, it's fine if you forget them.",
+            "Put it all in a web wallet and trust that it won't get touched.",
+            "Store all of your crypto on a single hot wallet for long term storage.",
+            "Use a hardware wallet for long term storage and use a non-custodial hot wallet for short term transactions."
+          ],
+          "answer": 3
+        }
+      ],
+      "success": [
+        {
+          "explanation": null
+        },
+        {
+          "explanation": null,
+          "successGif": "borat.gif"
+        }
+      ]
+    },
+    {
+      "tutorial": [
+        {
+          "text": "",
+          "duration": 10000
+        },
+        {
+          "text": "",
+          "duration": 10000
+        },
+        {
+          "text": "",
+          "duration": 10000
+        },
+        {
+          "text": "",
+          "duration": 10000
+        },
+        {
+          "text": "",
+          "duration": 10000
+        },
+        {
+          "text": "",
+          "duration": 10000
+        }
+      ],
+      "questions": [
+        {
+          "question": "",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": 0
+        },
+        {
+          "question": "",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": 0
+        },
+        {
+          "question": "",
+          "description": "Complete the quiz to earn $1",
+          "answerLabels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "answer": 0
+        }
+      ],
+      "success": [
+        {
+          "explanation": null
+        },
+        {
+          "explanation": null
+        },
+        {
+          "explanation": "Example of explanation text of question 3 of section 3.",
+          "successGif": "borat.gif"
+        }
+      ]
+    }
+  ]
+}

@@ -4,27 +4,27 @@
       "tutorial": [
         {
           "text": "Unlike wallets in real life, crypto wallets can't hold actual money. Instead, crypto wallets provide keys that prove ownership to cryptocurrency or NFTs that exist on a blockchain.",
-          "duration": 15000
+          "duration": 10000
         },
         {
           "text": "Crypto wallets store two types of keys, private and public keys. These keys come in pairs; every private key can generate a public key.",
-          "duration": 12000
+          "duration": 10000
         },
         {
           "text": "Private keys are secret, randomly generated numbers that act similar to a password. They grant access to the cryptocurrency or NFTs that belongs to that key.",
-          "duration": 14000
+          "duration": 10000
         },
         {
           "text": "If your private keys gets lost or stolen, anything those private keys granted access to are no longer yours. NEVER share your private keys.",
-          "duration": 12000
+          "duration": 10000
         },
         {
           "text": "To help keep your private keys safe, wallets generate a seed phrase. A seed phrase is a backup recovery phrase that gives access to a wallet. NEVER share your seed phrase.",
-          "duration": 14000
+          "duration": 10000
         },
         {
           "text": "Public keys are used by wallets to generate public addresses. Sharing your public address allows you to receive cryptocurrency.",
-          "duration": 12000
+          "duration": 10000
         }
       ],
       "questions": [
